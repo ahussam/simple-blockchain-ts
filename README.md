@@ -43,7 +43,7 @@ The project is organized into the following files:
 4. Run the example:
 
     ```bash
-    node index.js
+    node index.ts
     ```
 
 ## Usage
